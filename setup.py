@@ -2,7 +2,6 @@
 from setuptools import setup
 from setuptools import find_packages
 requirements = [
-    'pyicu',
     'nltk>=3.2.2',
     'future>=0.16.0',
     'six',
